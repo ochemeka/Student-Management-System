@@ -1,0 +1,6 @@
+install python or ensure you download the latest python 3.10 or above
+install tkinter in python
+install Pillow using "pip install pillow"
+install ttkthemes using "pip install pillow"
+install mysql using "pip install pymysql" "https://dev.mysql.com/downloads/installer/" choose the recommended one for your system windows or mark
+
